@@ -1,0 +1,24 @@
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\obj\Debug\Troy.Data.csprojResolveAssemblyReference.cache
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\Troy.Data.dll.config
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\Troy.Data.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\Troy.Data.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\EntityFramework.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\Troy.Model.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\Troy.Model.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\EntityFramework.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\obj\Debug\Troy.Data.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Data\obj\Debug\Troy.Data.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\Troy.Data.dll.config
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\Troy.Data.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\Troy.Data.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\EntityFramework.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\Troy.Model.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\Troy.Model.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\EntityFramework.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\obj\Debug\Troy.Data.csprojResolveAssemblyReference.cache
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\obj\Debug\Troy.Data.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Data\obj\Debug\Troy.Data.pdb

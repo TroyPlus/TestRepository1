@@ -1,0 +1,386 @@
+﻿@model Troy.Web.Models.PurchaseViewModels
+
+@{
+    ViewBag.Title = "Purchase";
+    ViewBag.BodyCss = "supplier";
+}
+
+<style>
+        .pagediv {
+        width:75% !important;
+        text-align:right !important;
+    }
+
+    .btn-warning {
+        background-image: -webkit-linear-gradient(#1684c2,#1990d5 60%,#1990d5) !important;
+        border-color : #1684c2 !important;
+    }
+
+</style>
+
+
+<script type="text/javascript">
+
+
+    $(document).ready(function () {
+
+        $('.datePicker').datepicker();
+
+        $('#grdPurchase').dataTable({
+            "bFilter": false, "sPaginationType": "full_numbers",
+            "oLanguage": {
+                "sInfo": "Total of _TOTAL_ entries to show (_START_ to _END_)"
+            },
+            /* Disable initial sort */
+            "aaSorting": [],
+            "fnInfoCallback": function (oSettings, iStart, iEnd, iMax, iTotal, sPre) {
+                perPage = iEnd - iStart + 1;
+                totalRatio = iTotal / perPage;
+                intTotalRatio = parseInt(totalRatio, 10);
+                totalPages = totalRatio > intTotalRatio ? intTotalRatio + 1 : intTotalRatio;
+                currentRatio = iStart / perPage;
+                intCurrentRatio = parseInt(currentRatio, 10);
+                currentPage = currentRatio > intCurrentRatio ? intCurrentRatio + 1 : intCurrentRatio;
+                return 'Displaying ' + currentPage + ' of ' + totalPages + ' pages';
+            }
+        });
+
+        $("#searchUL li").click(function () {
+            if (this.id == 'Vendor') {
+                $('#SearchQuery').removeAttr("disabled", "disabled");
+                Id = 'Vendor';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+            }
+            if (this.id == 'Reference') {
+                $('#SearchQuery').removeAttr("disabled", "disabled");
+                Id = 'Reference_Number';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+            }
+            if (this.id == 'RequiredDate') {
+                $('#SearchQuery').removeAttr("disabled", "disabled").datepicker();
+                Id = 'Required_Date';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+            }
+            if (this.id == 'ValidDate') {
+                $('#SearchQuery').removeAttr("disabled", "disabled").datepicker();
+                Id = 'Valid_Date';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+            }
+        });
+
+        $('#searchStatusUL li').click(function () {
+            if (this.id == 'Open') {
+                $('#SearchQuery').attr("disabled", "disabled");
+                Id = 'Quotation_Status';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+                $('#SearchQuery').text(this.id);
+            }
+            if (this.id == 'Closed') {
+                $('#SearchQuery').attr("disabled", "disabled");
+                Id = 'Quotation_Status';
+                $('#SearchColumn').val(Id);
+                $('#SearchBySpan').text(Id);
+                $('#SearchQuery').text(this.id);
+            }
+        });
+
+    });
+
+    function EditPurchase(id) {
+
+        var url = $('#editModal').data('url') + '/' + id;
+
+        $.get(url, function (data) {
+
+            $('#editmodelcontainer').html(data);
+
+            $('#editModal').modal('show');
+        });
+    }
+
+    function ViewPurchase(id) {
+
+        var url = $('#viewModal').data('url') + '/' + id;
+
+        $.get(url, function (data) {
+            $('#viewmodelcontainer').html(data);
+
+            $('#viewModal').modal('show');
+        });
+    }
+
+    function IFrameSubmit() {
+
+        var fileSelected = $('#FileUpload').val();
+        if (fileSelected == '') {
+            alert('Please choose the Excel to Upload');
+            return false;
+        }
+
+        var formData = new FormData($('form')[0]);
+
+        $.ajax({
+            url: 'Purchase',
+            type: 'POST',
+            xhr: function () {
+                var myXhr = $.ajaxSettings.xhr();
+                return myXhr;
+            },
+            data: formData,
+            cache: false,
+            contentType: false,
+            processData: false,
+            success: function (data) {
+
+                if (data.success == "true") {
+                    alert(data.Message);
+                }
+                else {
+                    alert(data.Error);
+                }
+            },
+            error: function (request, status, error) {
+                alert(request.responseText);
+            }
+        });
+    }
+
+</script>
+
+<div><span>&nbsp;</span></div>
+
+@using (Html.BeginForm())
+{
+
+    @Html.ValidationSummary(true)
+
+    @Html.HiddenFor(m => m.SearchColumn)
+
+    <div class="panel panel-default">
+
+        <div class="panel-head">
+
+            <div class="linkBar1">
+                <div class="col-md-8 text-left">
+                    <h4>Purchase List.</h4>
+                </div>
+                <div class="text-right">
+                    <a href="#" class="top-right" data-toggle="modal" data-target="#uploadModal" data-backdrop="static" data-keyboard="false">
+                        <img src="@Url.Content("../Content/images/upload-icon.png")" />
+                    </a>
+                    &nbsp;
+                    <button type="button" class="btn-link">
+                        <img src="@Url.Content("../Content/images/table-icon.png")" style="height:32px;width:32px" />
+                    </button>
+                    &nbsp;
+
+                    @*<a href="@Url.Action("_createpartialview" , "Suppliers" )" data-modal="true" class="top-right">*@
+                    <a href="#" class="top-right" data-toggle="modal" data-target="#createModal" data-backdrop="static" data-keyboard="false">
+                        <img src="@Url.Content("../Content/images/Add-icon.png")" />
+                    </a>&nbsp;
+                    @*<button type="button" class="btn-link panel-toggle" data-toggle="collapse" data-target="#search"><img src="@Url.Content("../Content/images/zoom-icon.png")" style="width:32px;height:32px" /></button>*@
+                </div>
+            </div>
+        </div>
+
+        <div class="panel-body ">
+
+            <div class="searchBar">
+                <div class="searchCont form-inline">
+                    <div class="form-group">
+                        <div class="dropdown text-left">
+                            <button class="btn btn-primary dropdown-toggle" type="button" id="SearchBy" data-toggle="dropdown">
+                                <span id="SearchBySpan">Search By</span><span class="caret"></span>
+                            </button>
+                            <ul id="searchUL" class="dropdown-menu" role="menu" aria-labelledby="SearchBy">
+                                <li id="Vendor" role="presentation">
+                                    <a onclick="" role="menuitem" tabindex="-1"
+                                       href="#">Vendor</a>
+                                </li>
+                                <li role="presentation" class="dropdown-submenu">
+                                    <a role="menuitem" tabindex="-1"
+                                       href="#">Status</a>
+                                    <ul id="searchStatusUL" class="dropdown-menu">
+                                        <li id="Open" role="presentation"><a role="menuitem" tabindex="-1" href="#">Open</a></li>
+                                        <li id="Closed" role="presentation"><a role="menuitem" tabindex="-1" href="#">Closed</a></li>
+                                    </ul>
+                                </li>
+                                <li id="Reference" role="presentation"><a role="menuitem" tabindex="-1" href="#">Reference Number</a></li>
+                                <li id="RequiredDate" role="presentation"><a role="menuitem" tabindex="-1" href="#">Required Date</a></li>
+                                <li id="ValidDate" role="presentation"><a role="menuitem" tabindex="-1" href="#">Valid Date</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="form-group w230">
+                        <div class="input-group">
+                            @Html.TextBoxFor(m => m.SearchQuery, new { @class = "form-control" })
+                            <span class="input-group-btn">
+                                <input type="submit" id="Submit1" name="submitButton" value="Search" class="btn btn-primary icnSearch" />
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="table-responsive">
+                <table id="grdPurchase" class="table table-striped table-bordered table-hover">
+                    <thead>
+                        <tr>
+
+                            <th style="display: none">
+                                <div class="lBor">
+                                    Purchase QuotationId
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor">
+                                    Vendor
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor">
+                                    Refrence Number
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor" style="width: 122px;">
+                                    Quotation Status
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor">
+                                    Posting Date
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor">
+                                    Valid Date
+                                </div>
+                            </th>
+                            <th>
+                                <div class="lBor">
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Troy.Model.Purchase.PurchaseQuotation item in Model.PurchaseQuotationList)
+                        {
+                            <tr class="odd">
+                                <td style="display: none">
+                                    @item.Purchase_Quote_Id
+                                </td>
+                                <td>
+                                    @item.Vendor
+                                </td>
+                                <td>
+                                    @item.Reference_Number
+                                </td>
+                                <td>
+                                    @item.Quotation_Status
+                                </td>
+                                <td>
+                                    @item.Posting_Date
+                                </td>
+                                <td>
+                                    @item.Valid_Date
+                                </td>
+
+                                <td>
+                                    <a href="#" class="top-right" data-toggle="modal" data-target="#viewModal" data-backdrop="static" data-keyboard="false" onclick="ViewPurchase(@item.Purchase_Quote_Id);">
+                                        <img src="@Url.Content("../Content/images/application_view_detail.png")" />
+                                    </a>
+                                    <span class="text-muted">|</span>
+                                    <a href="#" class="top-right" data-toggle="modal" data-target="#editModal" data-backdrop="static" data-keyboard="false" onclick="EditPurchase(@item.Purchase_Quote_Id);">
+                                        <img src="@Url.Content("../Content/images/pencil.png")" />
+                                    </a>
+                                    <span class="text-muted">|</span>
+
+                                    <a href="@Url.Action("_DeletePartialView", "Suppliers", new { id = item.Purchase_Quote_Id })" data-modal="true">
+                                        <img src="@Url.Content("../Content/images/cross_script.png")" />
+                                    </a>
+
+                                    @* @Html.ActionLink("Delete", "DeActivateExclusion", new { ruleId = item.Purchase_Quote_Id }, new { /*onclick = "return Deleteclick(" + item.Purchase_Quote_Id + ");" */ })*@
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+        <div class="modal fade bs-example-modal-lg" id="createModal" tabindex="-1" role="dialog"
+             aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            @Html.Partial("_CreatePartial", Model)
+        </div>
+
+        <div class="modal fade bs-example-modal-lg" id="editModal" tabindex="-1" role="dialog"
+             aria-labelledby="myLargeModalLabel" aria-hidden="true" data-url='@Url.Action("_EditPartial")'>
+            <div id="editmodelcontainer">
+            </div>
+        </div>
+
+        <div class="modal fade bs-example-modal-lg" id="viewModal" tabindex="-1" role="dialog"
+             aria-labelledby="myLargeModalLabel" aria-hidden="true" data-url='@Url.Action("_ViewPartial")'>
+            <div id="viewmodelcontainer">
+            </div>
+        </div>
+
+        <div class="modal fade bs-example-modal-lg" id="uploadModal" tabindex="-1" role="dialog"
+             aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel">File Upload</h4>
+                    </div>
+
+                    <div class="modal-body">
+
+                        <div class="form-horizontal">
+                            <div id="myTabContent" class="tab-content">
+                                <div class="tab-pane fade in active" id="default">
+                                    <br/>
+
+                                    <div id="FileUploadDiv">
+                                        <iframe id="hiddenFrame" name="hiddenFrame" style="display: none"></iframe>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <input type="file" id="FileUpload" name="FileUpload" />
+                                            </div>
+                                        </div>
+                                        @*<div class="row">
+                                                <div class="col-md-12 text-right">
+                                                    <input type="button" id="btnUpload" name="FileUploadButton" value="Upload" class="btn btn-success"
+                                                           onclick="return IFrameSubmit();" />
+                                                </div>
+                                            </div>*@
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="modal-footer">
+                        <input class="btn btn-primary pull-left" type="button" id="btnUpload" name="FileUploadButton" value="Upload" onclick="return IFrameSubmit();" />
+                        <button class="btn pull-left" data-dismiss="modal">Close</button>
+                        @Ajax.ActionLink("Change content", "UpdateContent", "Home", new AjaxOptions { UpdateTargetId = "myTabContent" })
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+}
+

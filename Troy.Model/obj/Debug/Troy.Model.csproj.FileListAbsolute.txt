@@ -1,0 +1,10 @@
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\Troy.Model.dll.config
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\Troy.Model.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\Troy.Model.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\EntityFramework.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\EntityFramework.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\obj\Debug\Troy.Model.csprojResolveAssemblyReference.cache
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\obj\Debug\Troy.Model.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Model\obj\Debug\Troy.Model.pdb

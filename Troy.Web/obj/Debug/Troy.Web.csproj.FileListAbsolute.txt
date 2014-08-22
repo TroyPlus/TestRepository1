@@ -1,0 +1,142 @@
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Web.dll.config
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Web.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Web.pdb
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Antlr3.Runtime.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\EntityFramework.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\EntityFramework.SqlServer.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Newtonsoft.Json.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Helpers.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Mvc.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Optimization.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Razor.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\WebGrease.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Helpers.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Mvc.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Optimization.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.Razor.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Antlr3.Runtime.pdb
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Newtonsoft.Json.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\EntityFramework.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\EntityFramework.SqlServer.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\obj\Debug\Troy.Web.csprojResolveAssemblyReference.cache
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\obj\Debug\Troy.Web.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\obj\Debug\Troy.Web.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Data.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Model.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\WebActivatorEx.dll
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Data.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Troy.Model.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Web.dll.config
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Web.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Web.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Antlr3.Runtime.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\EntityFramework.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\EntityFramework.SqlServer.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Newtonsoft.Json.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Helpers.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Mvc.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Optimization.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Razor.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.Razor.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Data.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Model.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\WebActivatorEx.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\WebGrease.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Data.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Troy.Model.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Helpers.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Mvc.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Optimization.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.Razor.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\System.Web.WebPages.Razor.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Antlr3.Runtime.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Newtonsoft.Json.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\EntityFramework.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\EntityFramework.SqlServer.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\obj\Debug\Troy.Web.csprojResolveAssemblyReference.cache
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\obj\Debug\Troy.Web.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web\obj\Debug\Troy.Web.pdb

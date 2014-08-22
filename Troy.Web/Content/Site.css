@@ -1,0 +1,84 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+#customized-page .pagination {
+    margin: 2px;
+}
+
+.login .panel-primary {
+    box-shadow: -1px 2px 10px 8px gray;
+    -webkit-box-shadow: -1px 2px 10px 8px gray;
+    -moz-box-shadow: -1px 2px 10px 8px gray;
+}
+body
+{
+    background-image: linear-gradient(90deg, transparent 50%, rgba(255, 255, 255, 0.5) 50%); background-size: 5px 5px; background-color: #dddddd;
+}
+body.home
+{
+    background-image:none;
+    background-color:transparent;
+}
+.sidebar-nav {
+    padding: 10px;
+    position: fixed;
+    margin: 10px;
+    background-color:#f5f5f5;
+}
+
+.sidebar-nav li {
+    list-style: none;
+    padding-bottom: 10px;
+}
+
+
+/* Popup model style */
+#popTable
+{
+
+}
+
+#popTable > tr > td
+{
+   
+}

@@ -1,0 +1,100 @@
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.dll.config
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.pdb
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Owin.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\EntityFramework.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.pdb
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Optimization.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\EntityFramework.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.csprojResolveAssemblyReference.cache
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.dll
+c:\users\kumar's\documents\visual studio 2013\Projects\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.dll.config
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.Tests.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Owin.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Data.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Model.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\WebActivatorEx.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\EntityFramework.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Web.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Data.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Troy.Model.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\EntityFramework.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.Unity.Mvc.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.csprojResolveAssemblyReference.cache
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.dll
+D:\Viki\Projects\Troy\MyCode\VS2013\Troy.Web\Troy.Web.Tests\obj\Debug\Troy.Web.Tests.pdb
